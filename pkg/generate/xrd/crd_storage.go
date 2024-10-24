@@ -9,7 +9,7 @@ import (
 	"sigs.k8s.io/controller-tools/pkg/loader"
 	"sigs.k8s.io/yaml"
 
-	xbuilderio "github.com/mproffitt/crossbuilder/pkg/generate/utils/io"
+	xbuilderio "github.com/marcoths/crossbuilder/pkg/generate/utils/io"
 )
 
 const (

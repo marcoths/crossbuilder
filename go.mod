@@ -1,4 +1,4 @@
-module github.com/mproffitt/crossbuilder
+module github.com/marcoths/crossbuilder
 
 go 1.22.2
 

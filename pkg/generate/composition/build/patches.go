@@ -3,7 +3,7 @@ package build
 import (
 	"github.com/crossplane/crossplane-runtime/pkg/fieldpath"
 	xapiextv1 "github.com/crossplane/crossplane/apis/apiextensions/v1"
-	"github.com/mproffitt/crossbuilder/pkg/generate/utils"
+	"github.com/marcoths/crossbuilder/pkg/generate/utils"
 	"github.com/pkg/errors"
 	"k8s.io/apimachinery/pkg/runtime"
 )
